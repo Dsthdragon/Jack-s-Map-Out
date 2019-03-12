@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the map", "Return the map.csproj", "{AB77F3E5-E2F0-C5CA-BF9E-5C8E93CAC885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the map.Plugins", "Return the map.Plugins.csproj", "{30335EF1-B9EC-61A7-FC1C-E37876620D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the map.Editor", "Return the map.Editor.csproj", "{E8A2A2A3-E4F7-782F-C2A7-FCD82FE40737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB77F3E5-E2F0-C5CA-BF9E-5C8E93CAC885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB77F3E5-E2F0-C5CA-BF9E-5C8E93CAC885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB77F3E5-E2F0-C5CA-BF9E-5C8E93CAC885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB77F3E5-E2F0-C5CA-BF9E-5C8E93CAC885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30335EF1-B9EC-61A7-FC1C-E37876620D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30335EF1-B9EC-61A7-FC1C-E37876620D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30335EF1-B9EC-61A7-FC1C-E37876620D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30335EF1-B9EC-61A7-FC1C-E37876620D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A2A2A3-E4F7-782F-C2A7-FCD82FE40737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A2A2A3-E4F7-782F-C2A7-FCD82FE40737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A2A2A3-E4F7-782F-C2A7-FCD82FE40737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A2A2A3-E4F7-782F-C2A7-FCD82FE40737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
